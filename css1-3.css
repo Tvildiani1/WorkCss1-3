@@ -1,0 +1,167 @@
+h1 {
+    color: #000000;
+    font-size: 72px;
+    padding: 0px;
+    width: 800px;
+    height: 86px;
+    margin: 0 auto; 
+    margin-bottom: 53px;
+}
+    
+#Thetheoryof {
+    color: #ff8000;
+    font-size: 24px;
+    width: 1220px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 294px;
+    margin-right: 406px;
+}
+#Frame1 {
+    width: 696px;
+    padding: 0px;
+    margin-left: 74.5px;
+    margin-top: 63px;
+    margin-bottom: 24px;
+}
+#BigBangTheory {
+    color: #d9ae00;
+    font-size: 40px;
+    width: 681px;
+    padding: 0px;
+    margin: 0px;
+}
+#themost {
+    color: #6d81b4;
+    font-size: 24px;
+    width: 681px;
+    padding: 0px;
+    margin: 10px;
+}
+#images1 {
+    width: 696px;
+    height: 415px;
+    margin-top: 24px;
+    margin-bottom: 101px;
+}
+#Frame2 {
+    background-color: #FFCEBE;
+    border-top: 2px solid #000000;
+    border-left: 2px solid #000000;
+    border-bottom: 2px solid red;
+    border-right: 2px solid red;
+    padding: 64px;
+    width: 879px;
+    height: 589px;
+    margin-left: 74px;
+}
+#BlackHole {
+    color: #f44e50;
+    font-size: 40px;
+    padding: 0px;
+    margin: 0 auto;
+    width: 400px;
+}
+#collapse {
+    color: #8b2b2c;
+    font-size: 20px;
+    padding: 0px;
+    margin-top: 24px;
+    margin-bottom: 30px;
+    text-align: center;
+    width: 800px;
+}
+#images2 {
+    width: 879px;
+    height: 415px;
+}
+#Frame3 {
+    width: 696px;
+    height: 1041px;
+    margin-top: 101px;
+    margin-left: 74px;
+}
+#StringTheory {
+    color: #4716e4;
+    font-size: 40px;
+    padding: 0px;
+    margin-bottom: 24px;
+    text-align: right;
+    
+}
+#three-dimensional {
+    color: #616161;
+    background-color: #ffc1e3;
+    font-size: 24px;
+    width: 648px;
+    height: 174px;
+    border: 3px solid #ff5da3;
+    padding: 24px;
+    margin: 3px;
+    text-align: right;
+}
+#unordered {
+    width: 696px;
+    height: 232px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h3 {
+    color: #414651;
+    font-size: 24px;
+    padding: 0px;
+    margin: 0px;
+}
+#list1 {
+    list-style: none;
+}
+#Unifiedli {
+    border-radius: 90px;
+    background: #000;
+    width: 16px;
+    height: 16px;  
+}
+#Unified {
+    color: #c27512;
+    font-size: 16px;
+    width: 600px;
+    height: 72px;
+    padding: 0px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+
+}
+#Extrali {
+    border-radius: 90px;
+    background: #000;
+    width: 16px;
+    height: 16px;
+}
+#Extra {
+    color: #c27512;
+    font-size: 16px;
+    width: 600px;
+    height: 72px;
+    padding: 0px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#Vibratingli {
+    border-radius: 90px;
+    background: #000;
+    width: 16px;
+    height: 16px;
+}
+#Vibrating {
+    color: #c27512;
+    font-size: 16px;
+    width: 600px;
+    height: 72px;
+    padding: 0px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#images3 {
+    width: 696px;
+    height: 415px;
+}
